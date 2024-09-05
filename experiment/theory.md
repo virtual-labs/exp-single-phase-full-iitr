@@ -148,7 +148,7 @@ $$i_{o~(wt)} = \frac {V_m}{Z}\left[ sin⁡(wt-θ)- sin⁡(\alpha-θ)e^{ \frac {-
 
 </center>
 
-Solving for $\alpha$,
+Solving for &alpha;,
 
 <center>   
 
@@ -252,7 +252,7 @@ $$I_{o} = \frac {2V_{m} \ cos⁡\alpha}{\pi R} - \frac {V_{dc}}{R} .......(17)$$
 
 </center>
 
-The expression for the $V_{rms}$ and $I_{rms}$ are,<br>
+The expression for the V<sub>rms</sub> and I<sub>rms</sub> are,<br>
 
 <center>
 
